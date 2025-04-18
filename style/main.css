@@ -1,0 +1,67 @@
+:root {
+  background-color: #131314;
+  color: #fff;
+  margin: auto;
+  width: 100%;
+  max-width: 70%;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 5px;
+}
+
+.arimo {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+hr {
+  width: 50%;
+  margin: 1rem auto;
+  border-top: 3px solid #494949;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+.main_container {
+  width: 100%;
+  display: block;
+  margin-inline: auto;
+}
+
+.main_colors {
+  display: block;
+}
+
+.colors {
+  display: flex;
+  margin: auto;
+  width: fit-content;
+}
+
+.color_1 {
+  background-color: #fff;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.color_2 {
+  background-color: #00bcff;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  margin-inline: 1rem;
+}
+
+.color_3 {
+  background-color: #0f1838cc;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
