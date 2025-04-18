@@ -12,4 +12,4 @@
 - Création de templates wordpress qui faciliterais l'intégration de contenu sur différentes sections du site
 - Amélioration du swiper / Ajout d'un Dark mode / Responsive design à améliorer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![tehttis_rework](https://github.com/user-attachments/assets/733861bc-60a1-4cb2-bcf3-b0074686955b)
+![tehttis_rework](https://github.com/user-attachments/assets/32c3dfd2-ba85-4ab4-a30f-96a76157ca4f)
