@@ -11,5 +11,10 @@
 - L'accessibilité [**Créer des modules qui permettent aux mal-voyants et daltoniens une meilleur expérience**]
 - Création de templates wordpress qui faciliterais l'intégration de contenu sur différentes sections du site
 - Amélioration du swiper / Ajout d'un Dark mode / Responsive design à améliorer
+
+  ## Demo live: https://demo-live-tehtris.netlify.app/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![tehttis_rework](https://github.com/user-attachments/assets/32c3dfd2-ba85-4ab4-a30f-96a76157ca4f)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![demo_live_tehtris](https://github.com/user-attachments/assets/dae3d681-e526-4df7-a286-d4e744f02fa2)
+
